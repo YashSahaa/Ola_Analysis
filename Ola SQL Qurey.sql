@@ -1,9 +1,6 @@
 create database Ola;
 use Ola;
 
-CREATE DATABASE bengaluru_rides;
-USE bengaluru_rides;
-
 CREATE TABLE bookings (
     Date DATETIME,
     Time TIME,
